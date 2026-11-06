@@ -1,6 +1,6 @@
-# AI_Pre_Apprenticeship_Notebook_LM
+# IT Launch Coach
 
-IT Launch Coach
+### AI Pre-Apprenticeship Capstone
 
 An AI Career Coach created with Google NotebookLM to help a recent Computer Science graduate prepare for entry-level IT Support and Help Desk opportunities.
 
